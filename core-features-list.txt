@@ -1,0 +1,32 @@
+Core Features List:
+
+Data Processing Pipeline
+
+File validation
+Data integration
+Real-time processing
+Error handling
+State management
+
+
+Analytics Engine
+
+Customer segmentation (A-E)
+Gear score calculation
+E-score computation
+Draw cycle analysis
+
+
+User Management
+
+Authentication
+Role-based access
+Profile management
+
+
+AI/NLP Interface
+
+Natural language queries
+Data visualization
+Real-time responses
+Query suggestions
